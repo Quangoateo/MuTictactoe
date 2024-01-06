@@ -13,3 +13,8 @@
 3. Game.java
 4. LoadingScreen.java
 5. Server.java
+### How to run this project?
+1. Run Server.java
+2. Run Client.java
+3. A prompt that requires your ip adress (localhost) or local ip address
+4. Then , a game dialog is shown on the menu 
