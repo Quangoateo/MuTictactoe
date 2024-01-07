@@ -5,8 +5,8 @@
 2. MultiThread
 3. Socket
 4. TCP port
-5. TIctactoe algorithms
-6.Gui
+5. Tictactoe 
+6. Gui
 ### Projects Components:
 1. Client.java
    This file is used to call loadingScreen ,dialog
